@@ -1,3 +1,1 @@
-PAQUETES NECESARIOS:
-pip install pytesseract
-pip install Pillow
+Repositorio para proyectos relacionados con la Inteligencia Artificial
